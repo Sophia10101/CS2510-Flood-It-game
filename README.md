@@ -9,7 +9,7 @@ How to Run in Eclipse
    - Select the project folder and click Finish
 
 2. Add the required libraries  
-   - Right-click the project → Build Path → Configure Build Path**  
+   - Right-click the project → Build Path → Configure Build Path 
    - Go to the Libraries tab → Add JARs
    - Add both javalib.jar and tester.jar
 
